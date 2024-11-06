@@ -1,4 +1,4 @@
-// mpenner@pdx.edu
+
 
 #pragma once
 
